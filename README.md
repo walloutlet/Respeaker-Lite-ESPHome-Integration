@@ -11,7 +11,7 @@ At the moment, all this is changing at very fast pace. Respeaker board considere
 If you encounter a problem, before creating ticket here you may go to PE and Seeed repos, linked above, and see if something changed there. I'll gladly accept pull-requests. :)
 
 ## Why?
-I ditched all proprietary assistants for good about 6 months ago, and dove into Assist all-hands. 
+I completely abandoned proprietary assistants in the summer of 2024 and fully committed to Assist all-hands.
 With this board i finally can build device, that will satisfy me and (more important) my family as their trusted voice assistant.
 
 ## What to do with it?
