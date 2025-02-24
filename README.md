@@ -1,5 +1,7 @@
 ### _Check out [Koala Satellite](https://github.com/formatBCE/Koala-Satellite), the next step of evolution for this project!_
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/formatbce)
+
 ## What is it
 This repository contains example code to integrate Seeed Respeaker Lite Voice Kit (with XIAO ESP32-S3 on board) with ESPHome.
 I'm thankful for continuous help of ESPHome team and Seeed developers, that let me put this thing together. 
@@ -48,6 +50,10 @@ Since version 2025.2.2, the firmware includes corresponding DFU firmware for Res
 
 ### Casing
 I made some casing to improve family approval factor. [Check it out.](casing/Casing.md)
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=formatBCE/Koala-Satellite,formatBCE/Respeaker-Lite-ESPHome-integration&type=Date)](https://star-history.com/#formatBCE/Koala-Satellite&formatBCE/Respeaker-Lite-ESPHome-integration&Date)
 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/formatbce)
