@@ -24,7 +24,7 @@ To activate alarm, turn on the switch `Alarm on`. *ATTENTION! If it's off, alarm
 
 Now to the action. Find drop-down `Alarm action` and adjust it to your preference, what action should happen on alarm ring:
 - `Play sound`: satellite will play same sound that is played when timer is ringing. This can be stopped with "stop" word.
-- `Send event`: satellite will sent event `esphome.alarm_ringing`, which you can use in your automations to play music, open your window blinds or any other action of your choice.
+- `Send event`: satellite will sent event `esphome.alarm_ringing`, which you can use in your automations to play music, open your window blinds or any other action of your choice. Check the event data to get `deviceId` of exact satellite, if you need it.
 - `Sound and event` - both local sound playback and event sending will be executed.
 
 That's it! Enjoy your new alarm!
