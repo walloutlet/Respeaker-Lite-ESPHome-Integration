@@ -53,9 +53,5 @@ Since version 2025.2.2, the firmware includes corresponding DFU firmware for Res
 ### Casing
 I made some casing to improve family approval factor. [Check it out.](casing/Casing.md)
 
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=formatBCE/Koala-Satellite,formatBCE/Respeaker-Lite-ESPHome-integration&type=Date)](https://www.star-history.com/#formatBCE/Koala-Satellite&formatBCE/Respeaker-Lite-ESPHome-integration&Date)
-
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/formatbce)
