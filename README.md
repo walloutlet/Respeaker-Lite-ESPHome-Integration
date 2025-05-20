@@ -24,6 +24,8 @@ __* Thanks to Mike aka @mikey60 and his fork to nabu_microphone, this project is
 5. Flash ESPHome firmware (YAML included, place `/config/common/respeaker-satellite-base.yaml` into ESPHome `common` directory, and adjust `/config/respeaker-satellite-dashboard-example.yaml` to your needs) to ESP32 (use its port).
 6. Add device to Home Assistant.
 
+### Here are also some [useful blueprints to use with your satellite](readme/blueprints)
+
 ## Current abilities
 The device has feature parity with Voice PE. Pretty much everything works same way, except volume control (solved in [Koala Satellite](https://github.com/formatBCE/Koala-Satellite)).
 There are some additional things i've added for convenience:
