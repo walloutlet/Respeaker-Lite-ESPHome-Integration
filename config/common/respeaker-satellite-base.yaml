@@ -174,7 +174,7 @@ globals:
   - id: saved_time_zone
     type: std::string
     restore_value: yes
-    initial_value: '"UTC0"'
+    initial_value: '"America/New_York"'
   - id: saved_alarm_action
     type: std::string
     restore_value: yes
